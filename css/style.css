@@ -1,7 +1,7 @@
 /* Definição de fontes */
 @font-face {
     font-family: "unbounded";
-    src: url("/tecboard/fonts/unbounded-bold.ttf")format("truetype");
+    src: url("../fonts/unbounded-bold.ttf") format("truetype");
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: "poppins";
-    src: url("/tecboard/fonts/poppins-regular.ttf")format("truetype");
+    src: url("../fonts/poppins-regular.ttf") format("truetype");
     font-weight: 400;
     font-style: normal;
     font-display: swap;
