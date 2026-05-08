@@ -1,19 +1,19 @@
-# 🔗 Tecboard
+# Tecboard
 
 Página de links desenvolvida durante o curso de Front-End da Alura.
 
 ![Mockup do projeto](links-tecboard.jpeg)
 
-## 📄 Sobre o projeto
+## 💻  Sobre o projeto
 
 O Tecboard é uma página de links com design moderno e escuro, desenvolvida para reunir e organizar links em um só lugar de forma visualmente atraente.
 
-## 🛠️ Tecnologias utilizadas
+## 🚀  Tecnologias
 
 - HTML5
 - CSS3
 
-## 🚀 Como visualizar
+## 🔖 Como visualizar
 
 1. Clone o repositório:
    ```bash
